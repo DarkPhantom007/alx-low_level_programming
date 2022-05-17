@@ -18,4 +18,3 @@ void _puts_recursion(char *s)
 	_putchar('\n');
 	}
 }
-© 2022 GitHub, Inc.
